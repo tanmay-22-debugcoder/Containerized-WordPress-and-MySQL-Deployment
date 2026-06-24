@@ -1,5 +1,4 @@
 # Containerized-WordPress-and-MySQL-Deployment
-# WordPress and MySQL Multi-Container Deployment using Docker Compose
 
 ## Project Overview
 
